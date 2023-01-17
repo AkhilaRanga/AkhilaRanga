@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello World, I'm Akhila Ranga
 
-<!--
-**AkhilaRanga/AkhilaRanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Web development and learning enthusiast | New to technical blogging | Hobby Artist
 
-Here are some ideas to get you started:
+#### About me
+- 👩‍💻 I’m currently working at Oracle OCI
+- 🎓 I completed my Masters in Computer Science from University of Virginia
+- 🌱 I’m currently learning System Design and end to end application development
+- 👯 I’m can collaborate on anything fun/inspiring/meaningful
+- 💬 Ask me about React, OCI, Books, Sketching
+- 😄 Pronouns: She/Her
+- 🧋 Reach out to me for a coffee chat - 
+⚡ Languages: Java, Kotlin, Python3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech stack
+- ⚛️ React, Typescript, HTML, CSS, Javascript
+- 🖥️ Python, Java, C++
+- 📂 PL/SQL, MySQL, MongoDB
+- ⚙️ Terraform, DevOps, Grafana, Git
+
+#### Links
+- [LinkedIn](https://www.linkedin.com/in/akhilaranga)
+- [Personal Website](https://akhilaranga.github.io/personal-website/about)
+- [Hashnode](https://blog.akhilascache.com)
