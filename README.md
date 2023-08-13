@@ -16,8 +16,8 @@ Software Engineer | Web development and learning enthusiast | New to technical b
 - 👩‍💻 I’m currently working at Oracle OCI
 - 🎓 I completed my Masters in Computer Science from University of Virginia
 - 🌱 I’m currently learning System Design and end to end application development
-- 👯 I’m can collaborate on anything fun/inspiring/meaningful
-- 💬 Ask me about React, OCI, Books, Sketching
+- 👯 I can collaborate on anything fun/inspiring/meaningful
+- 💬 Ask me about React, OCI, Books, Sketching/Painting
 - 😄 Pronouns: She/Her
 - 🧋 Reach out to me on LinkedIn for a coffee chat
 
