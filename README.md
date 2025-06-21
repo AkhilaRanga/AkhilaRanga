@@ -1,14 +1,14 @@
 ## Hello World, I'm Akhila Ranga
-Software Engineer | Oracle OCI | Web development enthusiast (Java & React) | Hobby Sketch Artist
+Software Engineer | Oracle OCI | UVA | Web development enthusiast (Java & React) | Hobby Sketch Artist
 
 #### About me
-- 👩‍💻 I’m currently working at Oracle OCI
+- 👩‍💻 I’m currently working as Software Engineer at Oracle OCI
 - 🎓 I completed my Masters in Computer Science from University of Virginia
-- 🌱 I’m currently learning System Design and always improving my Java + React Web application development knowledge
+- 🌱 I’m currently learning System Design and am always trying to improve my Java + React Web application development knowledge
 - 👯 I can collaborate on anything fun/inspiring/meaningful
 - 💬 Ask me about React, Java, OCI, Novels, Sketching/Painting, Anime
 - 😄 Pronouns: She/Her
-- 🧋 Reach out to me on LinkedIn for a coffee chat
+- 💖 Reach out to me on LinkedIn for a coffee chat
   
 #### What I code with
 <pre>
