@@ -32,7 +32,7 @@ Software Engineer | Oracle OCI | UVA | Web development enthusiast (Java & React)
 </a>
 
 #### GitHub stats
-<p align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&show_icons=true&locale=en&theme=catppuccin_latte&layout=compact" alt="Most Used Languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkhilaRanga&theme=nord_bright" alt="Profile summary" />
-</p>
+</div>
