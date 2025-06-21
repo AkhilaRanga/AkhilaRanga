@@ -32,9 +32,9 @@ Software Engineer | Oracle OCI | UVA | Web development enthusiast (Java & React)
 </a>
 
 #### GitHub stats
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&layout=compact&theme=catppuccin_latte#gh-light-mode-only" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhilaRanga&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true&theme=catppuccin_latte#gh-light-mode-only" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&layout=compact&theme=react#gh-dark-mode-only" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhilaRanga&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true&theme=react#gh-dark-mode-only" alt="Github Stats" />
+<!-- Light mode -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&layout=compact&theme=catppuccin_latte#gh-light-mode-only" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=AkhilaRanga&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true&theme=catppuccin_latte#gh-light-mode-only" alt="Github Stats" />
+
+<!-- Dark mode -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&layout=compact&theme=react#gh-dark-mode-only" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=AkhilaRanga&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true&theme=react#gh-dark-mode-only" alt="Github Stats" />
 </div>
