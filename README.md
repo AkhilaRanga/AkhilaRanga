@@ -33,4 +33,4 @@ Software Engineer | Oracle OCI | UVA | Web development enthusiast (Java & React)
 
 #### GitHub stats
 <!-- Light and dark mode compatible -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&layout=compact&theme=shadow_blue" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=AkhilaRanga&hide=stars,issues,contribs&rank_icon=github&include_all_commits=true&theme=shadow_blue" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AkhilaRanga&layout=compact&theme=shadow_blue" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=AkhilaRanga&hide=stars,contribs&rank_icon=github&include_all_commits=true&theme=shadow_blue" alt="Github Stats" />
